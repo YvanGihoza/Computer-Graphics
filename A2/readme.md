@@ -1,0 +1,3 @@
+Minecraft Look-like game.
+
+Create cubes, move around the world, remove cubes...
